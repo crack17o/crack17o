@@ -1,11 +1,53 @@
-# 👋 Hello, world !
+# Salut, moi c’est @crack17o 👋
 
-- 🎯 I’m @crack17o — a passionate Backend Developer exploring the web from Symfony to Spring Boot, with a touch of React.
-- 🔍 I’m interested in building clean, useful, and scalable web applications.
-- 🌱 Currently improving my skills in software architecture and frontend design.
-- 🤝 I’m open to collaborating on web projects, student tools, or anything that challenges me to grow.
-- 📫 Reach me at: joelstonelumpungu09@gmail.com
-- ⚡ Fun fact: I write backend code with frontend empathy 😄
+Bienvenue sur mon profil GitHub ! Je suis un développeur passionné par le **Backend**, avec une curiosité constante pour tout ce qui touche à l'ingénierie logicielle.
+
+---
+
+## 🚀 À propos de moi
+
+- 🎓 Étudiant en Sciences Informatiques, option **Ingénierie Logicielle**
+- 💻 Passionné par le développement web, particulièrement le **Backend**
+- 🌍 Basé à Kinshasa, RDC
+- 🎯 Objectif : créer des applications utiles, bien structurées et maintenables
+- 🧠 En apprentissage continu des bonnes pratiques de développement logiciel
+
+---
+
+## 🛠️ Compétences Techniques
+
+### 🔧 Backend
+- **Symfony (PHP)**
+- **Express.js (Node.js)**
+- **Spring Boot (Java)**
+
+### 🎨 Frontend
+- **React.js**
+- **HTML / CSS / JavaScript**
+
+### 🐍 Autres langages
+- **Python**
+- **C#**
+
+### 🛢️ Base de données
+- **MySQL**, **PostgreSQL**
+
+### ⚙️ Autres
+- Git & GitHub
+- API REST
+- Architecture MVC
+
+---
+
+## 🤝 Je cherche à collaborer sur
+
+- Des projets web utiles à la communauté
+- Des outils pour étudiants ou développeurs
+- Des projets éducatifs autour de l’IA ou de l’apprentissage
+
+
+Merci d’être passé·e sur mon profil ! N’hésite pas à jeter un œil à mes projets ou à me contacter pour discuter code, idées ou collaboration. 🚀
+
 
 
 <!---
