@@ -30,7 +30,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné par le **Ba
 - **C#**
 
 ### 🛢️ Base de données
-- **MySQL**, **PostgreSQL**
+- **MySQL**, **MongoDB**
 
 ### ⚙️ Autres
 - Git & GitHub
