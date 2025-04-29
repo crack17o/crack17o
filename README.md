@@ -45,6 +45,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné par le **Ba
 - Des outils pour étudiants ou développeurs
 - Des projets éducatifs autour de l’IA ou de l’apprentissage
 
+----
 
 Merci d’être passé·e sur mon profil ! N’hésite pas à jeter un œil à mes projets ou à me contacter pour discuter code, idées ou collaboration. 🚀
 
